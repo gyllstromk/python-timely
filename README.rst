@@ -7,6 +7,7 @@ Stopwatch usage
 ---------------
 
 ::
+
     with Stopwatch() as s:
         do_a()
         do_b()
